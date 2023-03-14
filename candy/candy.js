@@ -1,25 +1,25 @@
 const product = [
     {
         id: 0,
-        image: 'candy_img/1.jpg',
+        image: 'candy/candy_img/1.jpg',
         title: 'Snickers',
         price: 3500,
     },
     {
         id: 1,
-        image: 'candy_img/2.jpg',
+        image: 'candy/candy_img/2.jpg',
         title: 'Black Cow',
         price: 5000,
     },
     {
         id: 2,
-        image: 'candy_img/3.jpg',
+        image: 'candy/candy_img/3.jpg',
         title: 'Gummy Bear',
         price: 1500,
     },
     {
         id: 3,
-        image: 'candy_img/4.jpg',
+        image: 'candy/candy_img/4.jpg',
         title: 'M & M',
         price: 2000,
     }
