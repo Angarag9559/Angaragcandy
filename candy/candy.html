@@ -18,6 +18,17 @@
           <div class="face6"></div>
         </div>
       </div>
-      
+      <script>
+          for(let i = 0; i < 10000; i++){
+          console.log(i);
+          i == 9999 ? Lol() : null;
+          }
+        function Lol() {
+          setTimeout(() => {
+            console.log("Delayed for 1 second.");
+            location.replace("./../shop.html");
+          }, "5000");
+        }
+      </script>
 </body> 
 </html>
